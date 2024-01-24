@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.orders.client"},{"l":"com.orders.Testkit"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.amazon.orders.client"},{"l":"com.amazon.orders.testkit"}];updateSearchResults();
